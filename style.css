@@ -32,12 +32,11 @@ section {
 }
 
 .project-card img {
-    inline-size: autp
-    ;
+    inline-size: auto;
     block-size: auto;
     border-radius: 6px;
-    width: 100px;
-    height: 80px;
+    width: 200px;
+    height: 150px;
 }
 
 form {
